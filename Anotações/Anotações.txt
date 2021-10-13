@@ -1,0 +1,7 @@
+Anotações gerais:
+Links úteis:
+//Site para download do Git
+https://git-scm.com/downloads
+
+//Site para dowload do GitHub
+https://desktop.github.com/
